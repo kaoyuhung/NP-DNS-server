@@ -9,13 +9,13 @@
 > ./dns.out <port #> </path/to/config_file>
 ```
 
-* EX:
-** Terminal 1:
+## EX:
+* Terminal 1:
 ```
 > ./dns.out 10003 config.txt
 ```
 
-** Terminal 2:
+* Terminal 2:
 ```
 > dig @localhost -p 10003 example1.org ns
 ;; Warning: query response not set
