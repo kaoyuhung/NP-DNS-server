@@ -1,4 +1,4 @@
-# NP-project
+# Network Programming Project
 * A simple DNS server
 * Can load zone files and respond DNS queries.
 
