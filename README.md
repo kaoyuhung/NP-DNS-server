@@ -1,6 +1,5 @@
-# Network Programming Project
-* A simple DNS server
-* Can load zone files and respond DNS queries.
+# NYCU-CSCS10010 Network Programming Project: Simple DNS Server
+* Implement a simple dns server which can load zone files and respond DNS queries.
 
 ## Test
 
